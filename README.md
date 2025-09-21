@@ -7,9 +7,7 @@ Frontend: React + Axios
 Database: MongoDb
 Containerization: Docker + Docker Compose
 
-# for adminlogin:
- admin email is : chawlatushar262@gmail.com
- to correctly run checkAdmin() middleware in code
+
 
 
 ## Table of Contents
@@ -44,6 +42,10 @@ Containerization: Docker + Docker Compose
 - To execute docker compose up --build successfully, the following prerequisites must be met:
 - Docker Engine must be installed and running on your system.
   Docker Compose must be installed. If you are using Docker Desktop, Docker Compose is included. Otherwise, you may need to install it separately.
+
+  # for adminlogin:
+ admin email is : chawlatushar262@gmail.com
+ to correctly run checkAdmin() middleware in code
 
   
 - ## Postman Collection
