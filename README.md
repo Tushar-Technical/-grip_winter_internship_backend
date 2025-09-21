@@ -2,12 +2,16 @@
 A Dockerized backend API for an investment platform that allows users to invest in financial products, view portfolios, reset password ,add balance via verify OTP
 
 **#Tech Stack**
-Backend: Node.js, Express, JWT Authentication, MySQL ORM (Sequelize / Knex / Raw SQL)
+Backend: Node.js, Express, JWT Authentication, MongoDb ORM (Sequelize / Knex / Raw SQL)
 Frontend: React + Axios
 Database: MongoDb
 Containerization: Docker + Docker Compose
 
-AI Integration: GPT model for recommendations & summaries
+# for adminlogin:
+ admin email is : chawlatushar262@gmail.com
+ to correctly run checkAdmin() middleware in code
+
+
 ## Table of Contents
 1. Overview
 2. Features
