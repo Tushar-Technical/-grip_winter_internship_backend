@@ -7,7 +7,14 @@ Frontend: React + Axios
 Database: MongoDb
 Containerization: Docker + Docker Compose
 
+# Note
+for using email sending and email verification utility pleasse update EMAIL_USER with your email and EMAIL_PASS with app password of email in the .env file in grip folder
+# note
+for changing admin kindly update admin email in check admin middleware in grip folder->middleware->checkAdmin default admin email is chawlatushar262@gmail.com
 
+
+### 
+for using this app correctly above changes are necessary
 
 
 ## Table of Contents
